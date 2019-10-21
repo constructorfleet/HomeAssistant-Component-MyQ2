@@ -1,0 +1,14 @@
+{
+  "domain": "myq2",
+  "name": "Myq2",
+  "documentation": "https://github.com/constructorfleet/HomeAssistant-Component-MyQ1",
+  "requirements": [
+    "pymyq==2.0.0"
+  ],
+  "dependencies": [
+    "pymyq==2.0.0"
+  ],
+  "codeowners": [
+    "teagan42"
+  ]
+}
